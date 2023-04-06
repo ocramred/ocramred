@@ -13,7 +13,8 @@ I work as ...
 🧠 I’m currently working on ... many different things
 👯 I’m looking to collaborate on ... creative, sound, image, light, data, A.I. art projects 
 
-📫 How to reach me: [mail](mailto: marcokempf@protonmail.com)
+🏫 You can see a few of my past projects: [marcokempf.de](www.marcokempf.de) 
+📫 You can reach me: [mail](mailto: marcokempf@protonmail.com)
 
 
 <!--
