@@ -8,26 +8,14 @@ I work as ...
 🤑 ▷ a developer,
 😎 ▷ a sound designer.
 
-👍 I like to colaborate, communicate, help and support  
+> 👍 I like to colaborate, **communicate**, **help** and **support**  
 
 🧠 I’m currently working on ... many different things
 👯 I’m looking to collaborate on ... creative, sound, image, light, data, A.I. art projects 
 
+---
+
 🏫 You can see a few of my past projects: [marcokempf.de](www.marcokempf.de) 
 📫 You can reach me: [mail](mailto: marcokempf@protonmail.com)
 
-
-<!--
-**ocramred/ocramred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
